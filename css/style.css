@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    background: url("../img/User 01.jpg");
+    line-height: 1.5;
+    font-size: 18px;
+}
+.card{
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 5px 10px #3C4043;
+    border-radius: 10px;
+}
+.card-photo{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-title{
+    font-size: 18px;
+    text-align: center;
+    color: #ff4de8;
+}
+.card-text{
+    font-size: 14px;
+}
+.card-subtitle{
+    font-size: 18px;
+    color: #00b9d3;
+}
+.card-list{
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 14px;
+}
